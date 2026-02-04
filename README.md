@@ -12,15 +12,6 @@
 
 ---
 
-## ✨ Project Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c3b2Y1MHRwczF3d2x5OHh5a2s4MWppcTZnOWx5YTB1eXB2dWc5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="500" />
-</p>
-
-> *(Replace this GIF with your own app demo later)*
-
----
 
 ## 📌 Overview
 
