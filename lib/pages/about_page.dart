@@ -151,19 +151,19 @@ class AboutPage extends StatelessWidget {
                           // Email contact
                           _buildContact(
                             icon: Icons.email,
-                            text: 'hello@newsapp.com',
+                            text: 'dawitlulie2@gmail.com',
                           ),
                           
                           // Phone contact
                           _buildContact(
                             icon: Icons.phone,
-                            text: '+1 234 567 890',
+                            text: '+251 965 849 518',
                           ),
                           
                           // Address
                           _buildContact(
                             icon: Icons.location_on,
-                            text: '123 News Street, City',
+                            text: 'Addis Ababa',
                           ),
                         ],
                       ),
@@ -176,7 +176,7 @@ class AboutPage extends StatelessWidget {
                   // Made with love text
                   Center(
                     child: Text(
-                      'Made with Flutter 💙',
+                      'Made with Flutter ',
                       style: TextStyle(
                         color: Colors.grey,
                         fontStyle: FontStyle.italic,
