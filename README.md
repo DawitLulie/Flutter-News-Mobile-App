@@ -1,11 +1,11 @@
-# 📰 Flutter News Mobile App UI
+#  Flutter News Mobile App UI
 
 A **clean and modern Flutter UI project** that showcases a multi-page news application interface.  
 This is a **UI-only** project with no backend or API integration — perfect for Flutter beginners and portfolio demos.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project is a **Flutter News App UI** built to practice core Flutter concepts including:
 
@@ -19,7 +19,7 @@ No backend, state management libraries, or dynamic data sources were used — th
 
 ---
 
-## 📱 Features
+##  Features
 
 ✔ Home screen with a list of **news cards**  
 ✔ Tappable cards opening a **news detail page**  
@@ -30,7 +30,7 @@ No backend, state management libraries, or dynamic data sources were used — th
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ``` bash
 
@@ -52,13 +52,13 @@ lib/
 
 ---
 
-## 🧩 Screenshots
+##  Screenshots
 
 > Add your app screenshots here (optional)
 
 ---
 
-## 🛠 Getting Started
+##  Getting Started
 
 Follow these steps to run this app on your local machine.
 
