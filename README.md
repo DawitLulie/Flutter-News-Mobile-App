@@ -65,3 +65,7 @@ Follow these steps to run this app on your local machine.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/flutter-news-mobile-app.git
+```
+## License
+
+This project is open-source and available under the MIT License.
