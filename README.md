@@ -1,4 +1,6 @@
-# 📰 Flutter News Mobile App UI
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Flutter+News+Mobile+App+UI;Modern+Flutter+News+Application;UI+Only+Mini+Project;Built+With+Flutter+%F0%9F%92%99" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-UI-blue?style=for-the-badge&logo=flutter" />
