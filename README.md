@@ -32,17 +32,18 @@ This project focuses on **layout, navigation, and reusable widgets** without bac
 |  Readability | Write simple and clear code |
 
 ---
-
 ##  Features
 
-| Feature | Status |
-|---------|--------|
-|  Home Page |  Completed |
-|  News Details |  Completed |
-|  Categories |  Completed |
-|  About Page |  Completed |
-|  Navigation |  Completed |
-|  Responsive UI |  Completed |
+| Feature | Description |
+|---------|-------------|
+|  Home Page | Displays a list of latest news articles with image, title, and short description |
+|  News Details | Shows full news story with large image, category, date, and content |
+|  Categories Page | Lists all news categories like Technology, Sports, Business, etc. |
+|  About Page | Provides app information, features, and contact details |
+|  Navigation | Smooth navigation between pages using Flutter Navigator |
+|  Responsive UI | Clean layout and card-based design for readability on mobile screens |
+|  Reusable Widgets | `NewsCard` and `CategoryCard` used for modular design |
+
 
 ---
 
