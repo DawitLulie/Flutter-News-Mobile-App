@@ -1,53 +1,52 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Flutter+News+Mobile+App;Modern+Flutter+News+Application;Only+Mini+Project;Built+With+Flutter+%F0%9F%92%99" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-UI-blue?style=for-the-badge&logo=flutter" />
   <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
 
 <p align="center">
-  🚀 A modern Flutter News App UI for learning and portfolio showcase
+  A modern Flutter News App UI for learning and portfolio showcase
 </p>
 
 ---
 
 
-## 📌 Overview
+
+##  Overview
 
 Flutter News Mobile App UI is a **multi-page mobile interface** designed using Flutter.  
 This project focuses on **layout, navigation, and reusable widgets** without backend services.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 | Goal | Description |
 |------|-------------|
-| 📁 Structure | Learn Flutter folder organization |
-| 🧩 Widgets | Practice widget composition |
-| 🔀 Navigation | Implement multi-screen navigation |
-| 🎨 Design | Build clean UI layouts |
-| 📖 Readability | Write simple and clear code |
+|  Structure | Learn Flutter folder organization |
+|  Widgets | Practice widget composition |
+|  Navigation | Implement multi-screen navigation |
+|  Design | Build clean UI layouts |
+|  Readability | Write simple and clear code |
 
 ---
 
-## 🚀 Features
+##  Features
 
 | Feature | Status |
 |---------|--------|
-| 🏠 Home Page | ✅ Completed |
-| 📰 News Details | ✅ Completed |
-| 📂 Categories | ✅ Completed |
-| ℹ️ About Page | ✅ Completed |
-| 🔀 Navigation | ✅ Completed |
-| 📱 Responsive UI | ✅ Completed |
+|  Home Page |  Completed |
+|  News Details |  Completed |
+|  Categories |  Completed |
+|  About Page |  Completed |
+|  Navigation |  Completed |
+|  Responsive UI |  Completed |
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 lib/
