@@ -1,52 +1,75 @@
-#  Flutter News Mobile App UI
+# 📰 Flutter News Mobile App UI
 
-A **clean and modern Flutter UI project** that showcases a multi-page news application interface.  
-This is a **UI-only** project with no backend or API integration — perfect for Flutter beginners and portfolio demos.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-UI-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
 
----
-
-##  Overview
-
-This project is a **Flutter News App UI** built to practice core Flutter concepts including:
-
-- Project structure and navigation
-- Custom widgets
-- Layout and composition
-- Multi-page design
-- Clean and readable code
-
-No backend, state management libraries, or dynamic data sources were used — this app focuses purely on UI.  
+<p align="center">
+  🚀 A modern Flutter News App UI for learning and portfolio showcase
+</p>
 
 ---
 
-##  Features
+## ✨ Project Animation
 
-✔ Home screen with a list of **news cards**  
-✔ Tappable cards opening a **news detail page**  
-✔ **Categories screen** with category cards  
-✔ **About screen** with app information  
-✔ Smooth navigation between screens  
-✔ Clean and structured Flutter code  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c3b2Y1MHRwczF3d2x5OHh5a2s4MWppcTZnOWx5YTB1eXB2dWc5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="500" />
+</p>
+
+> *(Replace this GIF with your own app demo later)*
 
 ---
 
-##  Folder Structure
+## 📌 Overview
 
-``` bash
+Flutter News Mobile App UI is a **multi-page mobile interface** designed using Flutter.  
+This project focuses on **layout, navigation, and reusable widgets** without backend services.
 
+---
+
+## 🎯 Project Objectives
+
+| Goal | Description |
+|------|-------------|
+| 📁 Structure | Learn Flutter folder organization |
+| 🧩 Widgets | Practice widget composition |
+| 🔀 Navigation | Implement multi-screen navigation |
+| 🎨 Design | Build clean UI layouts |
+| 📖 Readability | Write simple and clear code |
+
+---
+
+## 🚀 Features
+
+| Feature | Status |
+|---------|--------|
+| 🏠 Home Page | ✅ Completed |
+| 📰 News Details | ✅ Completed |
+| 📂 Categories | ✅ Completed |
+| ℹ️ About Page | ✅ Completed |
+| 🔀 Navigation | ✅ Completed |
+| 📱 Responsive UI | ✅ Completed |
+
+---
+
+## 📂 Project Structure
+
+```text
 lib/
 ├── main.dart
 ├── pages/
-│ ├── home_page.dart
-│ ├── news_detail_page.dart
-│ ├── categories_page.dart
-│ └── about_page.dart
+│   ├── home_page.dart
+│   ├── news_detail_page.dart
+│   ├── categories_page.dart
+│   └── about_page.dart
 ├── models/
-│ └── news_model.dart
+│   └── news_model.dart
 └── widgets/
-├── news_card.dart
-└── category_card.dart
-```
+    ├── news_card.dart
+    └── category_card.dart
+
 
 
 
