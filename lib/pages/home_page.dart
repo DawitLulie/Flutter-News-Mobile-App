@@ -9,8 +9,7 @@ import '../widgets/news_card.dart';
 // It shows a list of news articles
 
 class HomePage extends StatelessWidget {
-  // We need to remove 'const' from the constructor
-  // because newsList is not a constant value
+
   const HomePage({super.key});
 
   // Let's create some sample news data
