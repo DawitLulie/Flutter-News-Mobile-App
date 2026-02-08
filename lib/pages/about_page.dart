@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-// This page tells users about our app
-// Like an "About Us" page
+// This page tells users about the app
 
 class AboutPage extends StatelessWidget {
   const AboutPage({super.key});
