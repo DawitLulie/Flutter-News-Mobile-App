@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import '../widgets/category_card.dart';
 
-// This page shows all the news categories
-// Users can pick what kind of news they want
+//  shows all the news categories
 
 class CategoriesPage extends StatelessWidget {
   const CategoriesPage({super.key});

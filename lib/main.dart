@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'pages/home_page.dart';
 
-// This is where our app starts
-// The main function is the first thing that runs
 
 void main() {
   // Start the app
@@ -15,10 +13,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      // Name of our app
+      // Name of the app
       title: 'News App',
       
-      // Set our app colors
+      // Set the app colors
       theme: ThemeData(
         primarySwatch: Colors.blue, // Main color is blue
         

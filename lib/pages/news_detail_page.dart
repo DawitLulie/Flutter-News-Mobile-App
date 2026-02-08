@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import '../models/news_model.dart';
 
-// This page shows the full news story
-// It opens when you tap a news card
-
+// shows the full news story and it opens when you tap a news card
+ 
 class NewsDetailPage extends StatelessWidget {
   // We need to know which news to show
   final News news;

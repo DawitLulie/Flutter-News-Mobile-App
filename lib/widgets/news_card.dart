@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import '../models/news_model.dart';
 
-// This widget shows one news item in a nice box
-// We use it multiple times in our app
+// This widget shows one news item in a nice box and We use it multiple times in our app
 
 class NewsCard extends StatelessWidget {
   // We need the news data to display

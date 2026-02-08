@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
-// This widget shows a news category in a nice box
-// Used in the Categories page
-
+// This widget shows a news category in a nice box and Used in the Categories page
 class CategoryCard extends StatelessWidget {
   // Data this card needs
   final String category;       // Category name
