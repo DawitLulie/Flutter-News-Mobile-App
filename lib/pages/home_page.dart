@@ -5,15 +5,12 @@ import 'about_page.dart';
 import '../models/news_model.dart';
 import '../widgets/news_card.dart';
 
-// This is the main screen of our app
-// It shows a list of news articles
+// This is the main screen of the app and it show a list of news articles
 
 class HomePage extends StatelessWidget {
 
   const HomePage({super.key});
 
-  // Let's create some sample news data
-  // In a real app, this would come from the internet
   static const List<News> newsList = [
     News(
       id: '1',
@@ -101,7 +98,6 @@ class HomePage extends StatelessWidget {
               NewsCard(
                 news: news,
                 onTap: () {
-                  // When a card is tapped, go to its detail page
                   Navigator.push(
                     context,
                     MaterialPageRoute(
