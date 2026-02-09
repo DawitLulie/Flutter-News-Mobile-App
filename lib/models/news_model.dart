@@ -1,4 +1,3 @@
-// This file defines what a news article looks like
 class News {
   // Each news article will have these pieces of information
   final String id;          // A unique number to identify this news
